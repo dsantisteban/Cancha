@@ -1,0 +1,80 @@
+/* Inserta tu CSS aqui */
+.Cesped{
+	height: 500px;
+	width: 900px;	
+	background-color: #8CB27C;
+	position: absolute;
+	float: left;
+
+}
+
+.Cancha{
+
+	height: 450px;
+	width:850px;
+	border: 1px solid white;
+	margin: 25px;
+	float: left;
+
+
+
+}
+
+.Arco1{
+
+	height: 220px;
+	width: 150px;
+	border: 1px solid white;
+	margin-top: 115px;
+	float: left;
+
+}
+
+.Centro{
+
+	height: 220px;
+	width: 220px;
+	border-radius: 100%;
+	border: 1px solid white;
+	margin-top: 115px 	;
+	margin-right: 162px;
+	margin-left: 162px;
+	float: left;
+
+
+}
+
+.Arco2{
+
+	height: 220px;
+	width: 150px;
+	border: 1px solid white;
+	margin-top: 115px;
+	float: left;
+
+
+}
+
+img{
+
+	position: absolute;
+	
+}
+
+.Bola1{
+
+	margin: 120px 140px;
+}
+
+.Bola2{
+
+
+	margin: 50px 440px;
+}
+
+.Bola3{
+
+
+	margin: 310px 670px;
+}
+
